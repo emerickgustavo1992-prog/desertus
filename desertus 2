@@ -1,459 +1,199 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AgroMais.br" tvg-name="BR | Agro Canalⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/543141daa179ff1eb682582a2ac8ae48.png" group-title="|BR| VARIEDADES",BR | Agro Canalⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51629
-#EXTINF:-1 tvg-id="" tvg-name="BR | All Sportsⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/dd0adb2707019ec75c7ab58f6f9c0962.png" group-title="|BR| ESPORTES",BR | All Sportsⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/7513
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="BR | Animal Planetⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/b73b36a238c8cf4de7a681241773d20c.png" group-title="|BR| DOCUMENTÁRIO",BR | Animal Planetⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51830
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="BR | Animal Planetⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/b73b36a238c8cf4de7a681241773d20c.png" group-title="|BR| DOCUMENTÁRIO",BR | Animal Planetⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51767
-#EXTINF:-1 tvg-id="babytv.br" tvg-name="BR | Baby TVⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/93f73ccbb1b6c3e0e8ae92c4552a5542.png" group-title="|BR| INFANTIL",BR | Baby TVⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51808
-#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BR | Band Minasⓧ" tvg-logo="http://xplatinmedia.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="|BR| VARIEDADES",BR | Band Minasⓧ
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51444
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BR | Band Newsⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/1a2cc4feaec2dcd6264e0f7825b54075.png" group-title="|BR| NOTICIAS",BR | Band Newsⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51753
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BR | Band Newsⓧ SD" tvg-logo="http://xplatinmedia.com:8080/images/1a2cc4feaec2dcd6264e0f7825b54075.png" group-title="|BR| NOTICIAS",BR | Band Newsⓧ SD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51683
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BR | Band Sportsⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/c309fb7df2a608b6b36976d35bd14920.png" group-title="|BR| ESPORTES",BR | Band Sportsⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51446
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BR | Band Sportsⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/c309fb7df2a608b6b36976d35bd14920.png" group-title="|BR| ESPORTES",BR | Band Sportsⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51745
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BR | Band Sportsⓧ SD" tvg-logo="http://xplatinmedia.com:8080/images/c309fb7df2a608b6b36976d35bd14920.png" group-title="|BR| ESPORTES",BR | Band Sportsⓧ SD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51592
-#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BR | Bandⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="|BR| VARIEDADES",BR | Bandⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51963
-#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BR | Bandⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="|BR| VARIEDADES",BR | Bandⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51964
-#EXTINF:-1 tvg-id="agromais.br" tvg-name="BR | Boomerangⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/e07e6b1ffa9a0f1604511fe83b39ef8a.png" group-title="|BR| INFANTIL",BR | Boomerangⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51480
-#EXTINF:-1 tvg-id="agromais.br" tvg-name="BR | Boomerangⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/e07e6b1ffa9a0f1604511fe83b39ef8a.png" group-title="|BR| INFANTIL",BR | Boomerangⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51698
-#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="BR | Canal do Boiⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/62cb19c8de3b1ae6482f3e8bacdf9a59.png" group-title="|BR| VARIEDADES",BR | Canal do Boiⓧ OFFLINE
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51549
-#EXTINF:-1 tvg-id="CanalRural.br" tvg-name="BR | Canal Ruralⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/b52ad29744d02b1bd9984280df4e4a8d.png" group-title="|BR| VARIEDADES",BR | Canal Ruralⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51630
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="BR | Cartoon Networkⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/16e3f03450d87a72144869486bc81d0e.png" group-title="|BR| INFANTIL",BR | Cartoon Networkⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51447
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="BR | Cartoon Networkⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/16e3f03450d87a72144869486bc81d0e.png" group-title="|BR| INFANTIL",BR | Cartoon Networkⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51756
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="BR | Cine Sky 1ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/9ca11c3507f416df9454fa024bbd1395.png" group-title="|BR| FILMES E SERIES",BR | Cine Sky 1ⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51911
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="BR | Cine Sky 2ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/9ca11c3507f416df9454fa024bbd1395.png" group-title="|BR| FILMES E SERIES",BR | Cine Sky 2ⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51912
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="BR | Cine Sky 3ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/9ca11c3507f416df9454fa024bbd1395.png" group-title="|BR| FILMES E SERIES",BR | Cine Sky 3ⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51913
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="BR | Cine Sky 4ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/9ca11c3507f416df9454fa024bbd1395.png" group-title="|BR| FILMES E SERIES",BR | Cine Sky 4ⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51914
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="BR | Cine Sky 5ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/9ca11c3507f416df9454fa024bbd1395.png" group-title="|BR| FILMES E SERIES",BR | Cine Sky 5ⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51915
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="BR | Cine Sky 6ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/9ca11c3507f416df9454fa024bbd1395.png" group-title="|BR| FILMES E SERIES",BR | Cine Sky 6ⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51916
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="BR | Cine Sky 7ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/9ca11c3507f416df9454fa024bbd1395.png" group-title="|BR| FILMES E SERIES",BR | Cine Sky 7ⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51917
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="BR | Cinemaxⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/a15cbfc7c4af32c16b6fc62c76d134da.png" group-title="|BR| FILMES E SERIES",BR | Cinemaxⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51482
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="BR | Cinemaxⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/a15cbfc7c4af32c16b6fc62c76d134da.png" group-title="|BR| FILMES E SERIES",BR | Cinemaxⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51757
-#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="BR | CNN Brasilⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/c7fad716bdb5128ab32837e0a4e510a7.png" group-title="|BR| NOTICIAS",BR | CNN Brasilⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51799
-#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="BR | CNN Brasilⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/c7fad716bdb5128ab32837e0a4e510a7.png" group-title="|BR| NOTICIAS",BR | CNN Brasilⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51545
-#EXTINF:-1 tvg-id="combate.br" tvg-name="BR | Combateⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/3353303223750327ec2e6b8c18ed849f.png" group-title="|BR| ESPORTES",BR | Combateⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51448
-#EXTINF:-1 tvg-id="combate.br" tvg-name="BR | Combateⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/3353303223750327ec2e6b8c18ed849f.png" group-title="|BR| ESPORTES",BR | Combateⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51758
-#EXTINF:-1 tvg-id="combate.br" tvg-name="BR | Combateⓧ SD" tvg-logo="http://xplatinmedia.com:8080/images/3353303223750327ec2e6b8c18ed849f.png" group-title="|BR| ESPORTES",BR | Combateⓧ SD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51575
-#EXTINF:-1 tvg-id="ComedyCentralBrazil.br" tvg-name="BR | Comedy Centralⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/f7029e67f22d8a43ab8d1b3deb896249.png" group-title="|BR| VARIEDADES",BR | Comedy Centralⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51881
-#EXTINF:-1 tvg-id="ComedyCentralBrazil.br" tvg-name="BR | Comedy Centralⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/f7029e67f22d8a43ab8d1b3deb896249.png" group-title="|BR| VARIEDADES",BR | Comedy Centralⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51759
-#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="BR | Conmebol 1ⓧ HD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/222bac9d4e5ffa5b91b5a34a26b88543.png" group-title="|BR| ESPORTES",BR | Conmebol 1ⓧ HD (Event Only)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51814
-#EXTINF:-1 tvg-id="Conmeboltv2.br" tvg-name="BR | Conmebol 2ⓧ HD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/222bac9d4e5ffa5b91b5a34a26b88543.png" group-title="|BR| ESPORTES",BR | Conmebol 2ⓧ HD (Event Only)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51813
-#EXTINF:-1 tvg-id="Conmeboltv3.br" tvg-name="BR | Conmebol 3ⓧ HD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/222bac9d4e5ffa5b91b5a34a26b88543.png" group-title="|BR| ESPORTES",BR | Conmebol 3ⓧ HD (Event Only)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51815
-#EXTINF:-1 tvg-id="Conmeboltv4.br" tvg-name="BR | Conmebol 4ⓧ HD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/222bac9d4e5ffa5b91b5a34a26b88543.png" group-title="|BR| ESPORTES",BR | Conmebol 4ⓧ HD (Event Only)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51816
-#EXTINF:-1 tvg-id="" tvg-name="BR | Copa Libertadoresⓧ HD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/5fc26fb9a18273aaa56c560c481bdb40.png" group-title="|BR| ESPORTES",BR | Copa Libertadoresⓧ HD (Event Only)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/27856
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="BR | DAZN 1ⓧ HD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/0115e0905eb6b032fc967949252e94d8.png" group-title="|BR| ESPORTES",BR | DAZN 1ⓧ HD (Event Only)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51851
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="BR | DAZN 2ⓧ HD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/debdd9fac1edc371aeef07032528ff08.png" group-title="|BR| ESPORTES",BR | DAZN 2ⓧ HD (Event Only)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/7682
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="BR | DAZN 3ⓧ HD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/3bf7679ff6c87f2a63a43f3df3eea761.png" group-title="|BR| ESPORTES",BR | DAZN 3ⓧ HD (Event Only)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51677
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="BR | DAZN 4ⓧ HD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/f51eeae773cbd21aadf3943cdda83da3.png" group-title="|BR| ESPORTES",BR | DAZN 4ⓧ HD (Event Only)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/27858
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="BR | Discovery Channelⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/813513ce030768aab17b38d54a047587.png" group-title="|BR| DOCUMENTÁRIO",BR | Discovery Channelⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51512
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="BR | Discovery Channelⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/813513ce030768aab17b38d54a047587.png" group-title="|BR| DOCUMENTÁRIO",BR | Discovery Channelⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51760
-#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="BR | Discovery H&Hⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/c830598797a1d2b614bb2032eb53e13a.png" group-title="|BR| DOCUMENTÁRIO",BR | Discovery H&Hⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51529
-#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="BR | Discovery H&Hⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/c830598797a1d2b614bb2032eb53e13a.png" group-title="|BR| DOCUMENTÁRIO",BR | Discovery H&Hⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51761
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="BR | Discovery Kidsⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/a5a6a49e4c29ebc4d0b5bda5b5fa682a.png" group-title="|BR| INFANTIL",BR | Discovery Kidsⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51484
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="BR | Discovery Kidsⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/a5a6a49e4c29ebc4d0b5bda5b5fa682a.png" group-title="|BR| INFANTIL",BR | Discovery Kidsⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51700
-#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="BR | Discovery Scienceⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/08cd13cf02ec49b5c7641e0ca4c1cf24.png" group-title="|BR| DOCUMENTÁRIO",BR | Discovery Scienceⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51762
-#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="BR | Discovery Scienceⓧ SD" tvg-logo="http://xplatinmedia.com:8080/images/08cd13cf02ec49b5c7641e0ca4c1cf24.png" group-title="|BR| DOCUMENTÁRIO",BR | Discovery Scienceⓧ SD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51646
-#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="BR | Discovery Worldⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/a01878284fe0d225a8f4213e43cfb695.png" group-title="|BR| DOCUMENTÁRIO",BR | Discovery Worldⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51485
-#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="BR | Discovery Worldⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/a01878284fe0d225a8f4213e43cfb695.png" group-title="|BR| DOCUMENTÁRIO",BR | Discovery Worldⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51764
-#EXTINF:-1 tvg-id="disney.br" tvg-name="BR | Disney Channelⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/32f9d89a0a4ad1cd52861b09122a38c1.png" group-title="|BR| INFANTIL",BR | Disney Channelⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51486
-#EXTINF:-1 tvg-id="disney.br" tvg-name="BR | Disney Channelⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/32f9d89a0a4ad1cd52861b09122a38c1.png" group-title="|BR| INFANTIL",BR | Disney Channelⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51765
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="BR | ESPN 2ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/73ad38381e174ccf1d64eba155e8f0c7.png" group-title="|BR| ESPORTES",BR | ESPN 2ⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51450
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="BR | ESPN 3ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/ceff54dafaf7adb6bd5cc41a45809a21.png" group-title="|BR| ESPORTES",BR | ESPN 3ⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51703
-#EXTINF:-1 tvg-id="foxsports.br" tvg-name="BR | ESPN 4ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/83f4b8453f02a11264c65d9098a4b570.png" group-title="|BR| ESPORTES",BR | ESPN 4ⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51455
-#EXTINF:-1 tvg-id="foxsports.br" tvg-name="BR | ESPN 4ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/83f4b8453f02a11264c65d9098a4b570.png" group-title="|BR| ESPORTES",BR | ESPN 4ⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51743
-#EXTINF:-1 tvg-id="espn.br" tvg-name="BR | ESPN Brasilⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/aebb58082cd1a61b738749a16f754155.png" group-title="|BR| ESPORTES",BR | ESPN Brasilⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51864
-#EXTINF:-1 tvg-id="espn.br" tvg-name="BR | ESPN Brasilⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/aebb58082cd1a61b738749a16f754155.png" group-title="|BR| ESPORTES",BR | ESPN Brasilⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51807
-#EXTINF:-1 tvg-id="espnextra.br" tvg-name="BR | ESPN Extraⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/3510937a524f0c8ce030953484c145e6.png" group-title="|BR| ESPORTES",BR | ESPN Extraⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51489
-#EXTINF:-1 tvg-id="espnextra.br" tvg-name="BR | ESPN Extraⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/3510937a524f0c8ce030953484c145e6.png" group-title="|BR| ESPORTES",BR | ESPN Extraⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51704
-#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="BR | ESPNⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/3341ad72bf3dd205c4af7d7e57b104a3.png" group-title="|BR| ESPORTES",BR | ESPNⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51536
-#EXTINF:-1 tvg-id="espn.br" tvg-name="BR | ESPNⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/437b5c400132d9659266fb28465034b1.png" group-title="|BR| ESPORTES",BR | ESPNⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51766
-#EXTINF:-1 tvg-id="Estadiotntsports.br" tvg-name="BR | Estadio TNT Sportsⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/274aa7e11f022687cdb065d9942a304b.png" group-title="|BR| ESPORTES",BR | Estadio TNT Sportsⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/27854
-#EXTINF:-1 tvg-id="Estadiotntsports.br" tvg-name="BR | Estadio TNT Sportsⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/274aa7e11f022687cdb065d9942a304b.png" group-title="|BR| ESPORTES",BR | Estadio TNT Sportsⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51684
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="BR | Fox Sports 2ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/505f347dd85fc2b612c01bfcbb7d83fb.png" group-title="|BR| ESPORTES",BR | Fox Sports 2ⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51456
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="BR | Fox Sports 2ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/505f347dd85fc2b612c01bfcbb7d83fb.png" group-title="|BR| ESPORTES",BR | Fox Sports 2ⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51746
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="BR | Globo Newsⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/57a5e5b07a71dc5af380dfcee1ff6022.png" group-title="|BR| ABERTOS",BR | Globo Newsⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51553
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="BR | Globo Newsⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/57a5e5b07a71dc5af380dfcee1ff6022.png" group-title="|BR| ABERTOS",BR | Globo Newsⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51557
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="BR | Globo Rioⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/8841fd0005c9969f20e4c5667b177786.png" group-title="|BR| ABERTOS",BR | Globo Rioⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/52026
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="BR | Globo Rioⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/8841fd0005c9969f20e4c5667b177786.png" group-title="|BR| ABERTOS",BR | Globo Rioⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/52020
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="BR | Globo SPⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/8841fd0005c9969f20e4c5667b177786.png" group-title="|BR| ABERTOS",BR | Globo SPⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51970
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="BR | Globo SPⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/8841fd0005c9969f20e4c5667b177786.png" group-title="|BR| ABERTOS",BR | Globo SPⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/52000
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="BR | Globo TV Gazeta Sul Alegreⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/83ac395a501aa1197bd40f6a88c608e9.png" group-title="|BR| ABERTOS",BR | Globo TV Gazeta Sul Alegreⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51969
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="BR | Globo TV Gazeta Sul Alegreⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/83ac395a501aa1197bd40f6a88c608e9.png" group-title="|BR| ABERTOS",BR | Globo TV Gazeta Sul Alegreⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/52035
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="BR | Globo TV Gazeta Vitóriaⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/83ac395a501aa1197bd40f6a88c608e9.png" group-title="|BR| ABERTOS",BR | Globo TV Gazeta Vitóriaⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51930
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="BR | Globo TV Gazeta Vitóriaⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/83ac395a501aa1197bd40f6a88c608e9.png" group-title="|BR| ABERTOS",BR | Globo TV Gazeta Vitóriaⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51931
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="BR | Globo TV Gazetaⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/83ac395a501aa1197bd40f6a88c608e9.png" group-title="|BR| ABERTOS",BR | Globo TV Gazetaⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51738
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="BR | Globo TV Gazetaⓧ SD" tvg-logo="http://xplatinmedia.com:8080/images/83ac395a501aa1197bd40f6a88c608e9.png" group-title="|BR| ABERTOS",BR | Globo TV Gazetaⓧ SD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51673
-#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="BR | Gloobinhoⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/d2d882abdedd4f9c53f0bc5d34a044fd.png" group-title="|BR| INFANTIL",BR | Gloobinhoⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51615
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="BR | Gloobⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/6e2eda68f2df1dbe490aa23370b6a578.png" group-title="|BR| INFANTIL",BR | Gloobⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51491
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="BR | Gloobⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/6e2eda68f2df1dbe490aa23370b6a578.png" group-title="|BR| INFANTIL",BR | Gloobⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51742
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="BR | Gloobⓧ SD" tvg-logo="http://xplatinmedia.com:8080/images/6e2eda68f2df1dbe490aa23370b6a578.png" group-title="|BR| INFANTIL",BR | Gloobⓧ SD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51604
-#EXTINF:-1 tvg-id="GNT.br" tvg-name="BR | GNTⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/a5e669e9a3073f1384994f3b02576748.png" group-title="|BR| VARIEDADES",BR | GNTⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51514
-#EXTINF:-1 tvg-id="GNT.br" tvg-name="BR | GNTⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/a5e669e9a3073f1384994f3b02576748.png" group-title="|BR| VARIEDADES",BR | GNTⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51818
-#EXTINF:-1 tvg-id="history2.br" tvg-name="BR | H2ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/152466bc2087bd9a23c26e66daa21e58.png" group-title="|BR| DOCUMENTÁRIO",BR | H2ⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51457
-#EXTINF:-1 tvg-id="history2.br" tvg-name="BR | H2ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/152466bc2087bd9a23c26e66daa21e58.png" group-title="|BR| DOCUMENTÁRIO",BR | H2ⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51787
-#EXTINF:-1 tvg-id="hbo2.br" tvg-name="BR | HBO 2ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/f2973347dfd89ca735e8ee43bbfbb48b.png" group-title="|BR| FILMES E SERIES",BR | HBO 2ⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51458
-#EXTINF:-1 tvg-id="hbo2.br" tvg-name="BR | HBO 2ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/f2973347dfd89ca735e8ee43bbfbb48b.png" group-title="|BR| FILMES E SERIES",BR | HBO 2ⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51708
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="BR | HBO Familyⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/bd92803d5defb80f6e80c2243301375e.png" group-title="|BR| FILMES E SERIES",BR | HBO Familyⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51516
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="BR | HBO Familyⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/bd92803d5defb80f6e80c2243301375e.png" group-title="|BR| FILMES E SERIES",BR | HBO Familyⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51792
-#EXTINF:-1 tvg-id="" tvg-name="BR | HBO Max Champions League 1ⓧ HD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/60c47acc40b89c989a7bc38c8583bcff.png" group-title="|BR| ESPORTES",BR | HBO Max Champions League 1ⓧ HD (Event Only)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/116396
-#EXTINF:-1 tvg-id="" tvg-name="BR | HBO Max Champions League 2ⓧ HD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/60c47acc40b89c989a7bc38c8583bcff.png" group-title="|BR| ESPORTES",BR | HBO Max Champions League 2ⓧ HD (Event Only)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/116397
-#EXTINF:-1 tvg-id="" tvg-name="BR | HBO Max Champions League 3ⓧ HD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/60c47acc40b89c989a7bc38c8583bcff.png" group-title="|BR| ESPORTES",BR | HBO Max Champions League 3ⓧ HD (Event Only)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/116398
-#EXTINF:-1 tvg-id="" tvg-name="BR | HBO Max Champions League 4ⓧ HD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/60c47acc40b89c989a7bc38c8583bcff.png" group-title="|BR| ESPORTES",BR | HBO Max Champions League 4ⓧ HD (Event Only)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/116399
-#EXTINF:-1 tvg-id="" tvg-name="BR | HBO Max Champions League 5ⓧ HD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/60c47acc40b89c989a7bc38c8583bcff.png" group-title="|BR| ESPORTES",BR | HBO Max Champions League 5ⓧ HD (Event Only)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/116400
-#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="BR | HBO Mundiⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/e4991df53d68d8995e52ba9e5c37284f.png" group-title="|BR| FILMES E SERIES",BR | HBO Mundiⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51542
-#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="BR | HBO Mundiⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/e4991df53d68d8995e52ba9e5c37284f.png" group-title="|BR| FILMES E SERIES",BR | HBO Mundiⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51909
-#EXTINF:-1 tvg-id="hbopop.br" tvg-name="BR | HBO Popⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/a2716bfb54cf2bf28a66f98d2076b9a0.png" group-title="|BR| FILMES E SERIES",BR | HBO Popⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51544
-#EXTINF:-1 tvg-id="hbopop.br" tvg-name="BR | HBO Popⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/a2716bfb54cf2bf28a66f98d2076b9a0.png" group-title="|BR| FILMES E SERIES",BR | HBO Popⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51856
-#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="BR | HBO Signatureⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/d3ec501f325429f6f8174ec6a9e11bd3.png" group-title="|BR| FILMES E SERIES",BR | HBO Signatureⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51492
-#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="BR | HBO Signatureⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/d3ec501f325429f6f8174ec6a9e11bd3.png" group-title="|BR| FILMES E SERIES",BR | HBO Signatureⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51782
-#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="BR | HBO Xtremeⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/db8ce8fdd5ac9286197f6d5f14d1fb78.png" group-title="|BR| FILMES E SERIES",BR | HBO Xtremeⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51543
-#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="BR | HBO Xtremeⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/db8ce8fdd5ac9286197f6d5f14d1fb78.png" group-title="|BR| FILMES E SERIES",BR | HBO Xtremeⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51769
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="BR | HBO+ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/8dab71cd68e2a8b333112b2e3634d5e0.png" group-title="|BR| FILMES E SERIES",BR | HBO+ⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51460
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="BR | HBO+ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/8dab71cd68e2a8b333112b2e3634d5e0.png" group-title="|BR| FILMES E SERIES",BR | HBO+ⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51709
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="BR | HBOⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/91f0581c21b08992162709c90ad3cea8.png" group-title="|BR| FILMES E SERIES",BR | HBOⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51459
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="BR | HBOⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/91f0581c21b08992162709c90ad3cea8.png" group-title="|BR| FILMES E SERIES",BR | HBOⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51707
-#EXTINF:-1 tvg-id="HGTVBrazil.br" tvg-name="BR | HGTVⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/974af8a22c31b8865ef0a01cc9c1859c.png" group-title="|BR| VARIEDADES",BR | HGTVⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51865
-#EXTINF:-1 tvg-id="HGTVBrazil.br" tvg-name="BR | HGTVⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/974af8a22c31b8865ef0a01cc9c1859c.png" group-title="|BR| VARIEDADES",BR | HGTVⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51800
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="BR | Historyⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/42379669617113606f65bc09cead514c.png" group-title="|BR| DOCUMENTÁRIO",BR | Historyⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51875
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="BR | Historyⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/42379669617113606f65bc09cead514c.png" group-title="|BR| DOCUMENTÁRIO",BR | Historyⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51710
-#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="BR | ID Investigação Discoveryⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/968011a8a1db415c59ab2082e1acf081.png" group-title="|BR| DOCUMENTÁRIO",BR | ID Investigação Discoveryⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51876
-#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="BR | ID Investigação Discoveryⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/968011a8a1db415c59ab2082e1acf081.png" group-title="|BR| DOCUMENTÁRIO",BR | ID Investigação Discoveryⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51784
-#EXTINF:-1 tvg-id="JPNews.br" tvg-name="BR | Jovem Pan Newsⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/99fd94c1c4b7990d2b5e59e972f4e8e7.png" group-title="|BR| NOTICIAS",BR | Jovem Pan Newsⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51689
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="BR | Megapixⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/4b4218887844bfdcd600f1ab147d274a.png" group-title="|BR| FILMES E SERIES",BR | Megapixⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51537
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="BR | Megapixⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/4b4218887844bfdcd600f1ab147d274a.png" group-title="|BR| FILMES E SERIES",BR | Megapixⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51773
-#EXTINF:-1 tvg-id="VH1.br" tvg-name="BR | MTV 00sⓧ SD" tvg-logo="http://xplatinmedia.com:8080/images/4cab8e5b35478bdfc08178142b98f663.png" group-title="|BR| MUSICAS",BR | MTV 00sⓧ SD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51939
-#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="BR | MTV Liveⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/22b8f0e6791c92099f868de71784fc6d.png" group-title="|BR| MUSICAS",BR | MTV Liveⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51461
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="BR | MTVⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/24b86aab2c6ee94678aca1afbede5575.png" group-title="|BR| MUSICAS",BR | MTVⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51494
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="BR | MTVⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/24b86aab2c6ee94678aca1afbede5575.png" group-title="|BR| MUSICAS",BR | MTVⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51713
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="BR | Multishowⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/d86c2455f7248a0bd12945187439ec01.png" group-title="|BR| VARIEDADES",BR | Multishowⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51495
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="BR | Multishowⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/d86c2455f7248a0bd12945187439ec01.png" group-title="|BR| VARIEDADES",BR | Multishowⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51819
-#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="BR | National Geographicⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/90cfcbbaa9454be9badae5e11bd69798.png" group-title="|BR| DOCUMENTÁRIO",BR | National Geographicⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51462
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="BR | National Geographicⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/90cfcbbaa9454be9badae5e11bd69798.png" group-title="|BR| DOCUMENTÁRIO",BR | National Geographicⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51788
-#EXTINF:-1 tvg-id="nickjr.br" tvg-name="BR | Nick Jrⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/4dc23cb5b11b87bb44fe81fee4a03c1c.png" group-title="|BR| INFANTIL",BR | Nick Jrⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51497
-#EXTINF:-1 tvg-id="nickjr.br" tvg-name="BR | Nick Jrⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/4dc23cb5b11b87bb44fe81fee4a03c1c.png" group-title="|BR| INFANTIL",BR | Nick Jrⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51715
-#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="BR | Nickelodeonⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/c3c3b63199260c17fefc604c9db78308.png" group-title="|BR| INFANTIL",BR | Nickelodeonⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51535
-#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="BR | Nickelodeonⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/c3c3b63199260c17fefc604c9db78308.png" group-title="|BR| INFANTIL",BR | Nickelodeonⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51820
-#EXTINF:-1 tvg-id="CanalOff.br" tvg-name="BR | OFFⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/3262d48df5d75e3452f0f16b313b7808.png" group-title="|BR| VARIEDADES",BR | OFFⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51524
-#EXTINF:-1 tvg-id="CanalOff.br" tvg-name="BR | OFFⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/3262d48df5d75e3452f0f16b313b7808.png" group-title="|BR| VARIEDADES",BR | OFFⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51805
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="BR | Paramountⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/5a30bebad06b2c2924fbe8a653b451fc.png" group-title="|BR| FILMES E SERIES",BR | Paramountⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51498
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="BR | Paramountⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/5a30bebad06b2c2924fbe8a653b451fc.png" group-title="|BR| FILMES E SERIES",BR | Paramountⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51794
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="BR | Premiere 2ⓧ FHD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/5bba0072df56d5e06e77962b94302125.png" group-title="|BR| ESPORTES",BR | Premiere 2ⓧ FHD (Event Only)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51473
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="BR | Premiere 2ⓧ HD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/5bba0072df56d5e06e77962b94302125.png" group-title="|BR| ESPORTES",BR | Premiere 2ⓧ HD (Event Only)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51718
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="BR | Premiere 2ⓧ SD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/5bba0072df56d5e06e77962b94302125.png" group-title="|BR| ESPORTES",BR | Premiere 2ⓧ SD (Event Only)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51639
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="BR | Premiere 3ⓧ FHD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/5bba0072df56d5e06e77962b94302125.png" group-title="|BR| ESPORTES",BR | Premiere 3ⓧ FHD (Event Only)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51474
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="BR | Premiere 3ⓧ HD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/5bba0072df56d5e06e77962b94302125.png" group-title="|BR| ESPORTES",BR | Premiere 3ⓧ HD (Event Only)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51719
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="BR | Premiere 3ⓧ SD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/5bba0072df56d5e06e77962b94302125.png" group-title="|BR| ESPORTES",BR | Premiere 3ⓧ SD (Event Only)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51638
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="BR | Premiere 4ⓧ FHD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/5bba0072df56d5e06e77962b94302125.png" group-title="|BR| ESPORTES",BR | Premiere 4ⓧ FHD (Event Only)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51475
-#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="BR | Premiere 4ⓧ HD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/b2cd00c662f806ae090d1c2f2f11124b.jpg" group-title="|BR| ESPORTES",BR | Premiere 4ⓧ HD (Event Only)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51821
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="BR | Premiere 4ⓧ SD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/5bba0072df56d5e06e77962b94302125.png" group-title="|BR| ESPORTES",BR | Premiere 4ⓧ SD (Event Only)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51620
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="BR | Premiere 5ⓧ FHD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/5bba0072df56d5e06e77962b94302125.png" group-title="|BR| ESPORTES",BR | Premiere 5ⓧ FHD (Event Only)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51499
-#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="BR | Premiere 5ⓧ HD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/f23a43c2c272f36133a5896b3968df9b.jpeg" group-title="|BR| ESPORTES",BR | Premiere 5ⓧ HD (Event Only)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51720
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="BR | Premiere 5ⓧ SD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/5bba0072df56d5e06e77962b94302125.png" group-title="|BR| ESPORTES",BR | Premiere 5ⓧ SD (Event Only)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51640
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="BR | Premiere 6ⓧ FHD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/5adda6c4d8968e5a76b437ef5a3da764.png" group-title="|BR| ESPORTES",BR | Premiere 6ⓧ FHD (Event Only)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51500
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="BR | Premiere 6ⓧ HD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/5bba0072df56d5e06e77962b94302125.png" group-title="|BR| ESPORTES",BR | Premiere 6ⓧ HD (Event Only)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51721
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="BR | Premiere 6ⓧ SD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/5bba0072df56d5e06e77962b94302125.png" group-title="|BR| ESPORTES",BR | Premiere 6ⓧ SD (Event Only)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51641
-#EXTINF:-1 tvg-id="premiere7.br" tvg-name="BR | Premiere 7ⓧ FHD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/5bba0072df56d5e06e77962b94302125.png" group-title="|BR| ESPORTES",BR | Premiere 7ⓧ FHD (Event Only)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51513
-#EXTINF:-1 tvg-id="premiere7.br" tvg-name="BR | Premiere 7ⓧ SD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/5bba0072df56d5e06e77962b94302125.png" group-title="|BR| ESPORTES",BR | Premiere 7ⓧ SD (Event Only)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51626
-#EXTINF:-1 tvg-id="premiere8.br" tvg-name="BR | Premiere 8ⓧ HD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/5bba0072df56d5e06e77962b94302125.png" group-title="|BR| ESPORTES",BR | Premiere 8ⓧ HD (Event Only)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51822
-#EXTINF:-1 tvg-id="premiere8.br" tvg-name="BR | Premiere 8ⓧ HD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/5bba0072df56d5e06e77962b94302125.png" group-title="|BR| ESPORTES",BR | Premiere 8ⓧ HD (Event Only)
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51621
-#EXTINF:-1 tvg-id="premierefc.br" tvg-name="BR | Premiere FCⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/9bfa635fbe1df127f7a5e29e2b1082bd.png" group-title="|BR| ESPORTES",BR | Premiere FCⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51976
-#EXTINF:-1 tvg-id="premierefc.br" tvg-name="BR | Premiere FCⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/9bfa635fbe1df127f7a5e29e2b1082bd.png" group-title="|BR| ESPORTES",BR | Premiere FCⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51716
-#EXTINF:-1 tvg-id="premierefc.br" tvg-name="BR | Premiere FCⓧ HEVC" tvg-logo="http://xplatinmedia.com:8080/images/9bfa635fbe1df127f7a5e29e2b1082bd.png" group-title="|BR| ESPORTES",BR | Premiere FCⓧ HEVC
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51873
-#EXTINF:-1 tvg-id="premierefc.br" tvg-name="BR | Premiere FCⓧ SD" tvg-logo="http://xplatinmedia.com:8080/images/9bfa635fbe1df127f7a5e29e2b1082bd.png" group-title="|BR| ESPORTES",BR | Premiere FCⓧ SD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51680
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="BR | Record Newsⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/181b71c4935c89dbae38731b36979e03.png" group-title="|BR| NOTICIAS",BR | Record Newsⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51478
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="BR | Record Newsⓧ HEVC" tvg-logo="http://xplatinmedia.com:8080/images/181b71c4935c89dbae38731b36979e03.png" group-title="|BR| NOTICIAS",BR | Record Newsⓧ HEVC
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51531
-#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="BR | Record TVⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="|BR| VARIEDADES",BR | Record TVⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51995
-#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="BR | Record TVⓧ SD" tvg-logo="http://xplatinmedia.com:8080/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="|BR| VARIEDADES",BR | Record TVⓧ SD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51996
-#EXTINF:-1 tvg-id="" tvg-name="BR | Red Bull TVⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/ed674d774a9e64d5922f3322ba360414.png" group-title="|BR| ESPORTES",BR | Red Bull TVⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51501
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="BR | Rede TVⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/25ef91f1474a124b5a3cf166d09b731a.png" group-title="|BR| VARIEDADES",BR | Rede TVⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51541
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="BR | Rede TVⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/25ef91f1474a124b5a3cf166d09b731a.png" group-title="|BR| VARIEDADES",BR | Rede TVⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51795
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="BR | SBT SPⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="|BR| VARIEDADES",BR | SBT SPⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51724
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="BR | SBT SPⓧ SD" tvg-logo="http://xplatinmedia.com:8080/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="|BR| VARIEDADES",BR | SBT SPⓧ SD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51580
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="BR | SBTⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="|BR| VARIEDADES",BR | SBTⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51829
-#EXTINF:-1 tvg-id="smithsonianchannel.br" tvg-name="BR | Smithsonianⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/de9d9004412aa61754891d866b372fd4.png" group-title="|BR| DOCUMENTÁRIO",BR | Smithsonianⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51801
-#EXTINF:-1 tvg-id="smithsonianchannel.br" tvg-name="BR | Smithsonianⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/de9d9004412aa61754891d866b372fd4.png" group-title="|BR| DOCUMENTÁRIO",BR | Smithsonianⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51533
-#EXTINF:-1 tvg-id="space.br" tvg-name="BR | Spaceⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/5417cab163e2f9dd35bb3c4b7bfacfbe.png" group-title="|BR| FILMES E SERIES",BR | Spaceⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51471
-#EXTINF:-1 tvg-id="space.br" tvg-name="BR | Spaceⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/5417cab163e2f9dd35bb3c4b7bfacfbe.png" group-title="|BR| FILMES E SERIES",BR | Spaceⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51789
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="BR | SporTV 2ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/aaec6c0df7043ef0b5c56be74f91cd2d.png" group-title="|BR| ESPORTES",BR | SporTV 2ⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51472
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="BR | SporTV 2ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/aaec6c0df7043ef0b5c56be74f91cd2d.png" group-title="|BR| ESPORTES",BR | SporTV 2ⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51727
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="BR | SporTV 3ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/6bc4241cc9d0b4815d07be17028c0f3a.png" group-title="|BR| ESPORTES",BR | SporTV 3ⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51878
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="BR | SporTV 3ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/6bc4241cc9d0b4815d07be17028c0f3a.png" group-title="|BR| ESPORTES",BR | SporTV 3ⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51728
-#EXTINF:-1 tvg-id="Sportv4.br" tvg-name="BR | SporTV 4ⓧ HD***" tvg-logo="http://xplatinmedia.com:8080/images/e80e507eeddbfc16d9a7d86d2702c6dc.png" group-title="|BR| ESPORTES",BR | SporTV 4ⓧ HD***
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51717
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="BR | SporTVⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/e80e507eeddbfc16d9a7d86d2702c6dc.png" group-title="|BR| ESPORTES",BR | SporTVⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51470
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="BR | SporTVⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/e80e507eeddbfc16d9a7d86d2702c6dc.png" group-title="|BR| ESPORTES",BR | SporTVⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51726
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="BR | Star Channelⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/470e718829c6049522dbda37e65afd62.png" group-title="|BR| FILMES E SERIES",BR | Star Channelⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51451
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="BR | Star Channelⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/470e718829c6049522dbda37e65afd62.png" group-title="|BR| FILMES E SERIES",BR | Star Channelⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51790
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="BR | Studio Universalⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/041077044a5dd9588f7e193cc825871a.png" group-title="|BR| FILMES E SERIES",BR | Studio Universalⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51548
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="BR | Studio Universalⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/041077044a5dd9588f7e193cc825871a.png" group-title="|BR| FILMES E SERIES",BR | Studio Universalⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51806
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="BR | Telecine Actionⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/89ce66af4841db97c0d8f66bcd7e5f84.png" group-title="|BR| FILMES E SERIES",BR | Telecine Actionⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51889
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="BR | Telecine Actionⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/89ce66af4841db97c0d8f66bcd7e5f84.png" group-title="|BR| FILMES E SERIES",BR | Telecine Actionⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51730
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="BR | Telecine Cultⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/e51f9ef29969fb4ea4216d8d457b824d.png" group-title="|BR| FILMES E SERIES",BR | Telecine Cultⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51902
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="BR | Telecine Cultⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/e51f9ef29969fb4ea4216d8d457b824d.png" group-title="|BR| FILMES E SERIES",BR | Telecine Cultⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51777
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="BR | Telecine Funⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/720d7530c0b5a65ed61a08822c445ce1.png" group-title="|BR| FILMES E SERIES",BR | Telecine Funⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51468
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="BR | Telecine Funⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/720d7530c0b5a65ed61a08822c445ce1.png" group-title="|BR| FILMES E SERIES",BR | Telecine Funⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51731
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="BR | Telecine Pipocaⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/73935fe12104c7d7c10c50954449078f.png" group-title="|BR| FILMES E SERIES",BR | Telecine Pipocaⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51467
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="BR | Telecine Pipocaⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/73935fe12104c7d7c10c50954449078f.png" group-title="|BR| FILMES E SERIES",BR | Telecine Pipocaⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51732
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="BR | Telecine Premiumⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/f539992b62d5d1ff8c034aa244fb6095.png" group-title="|BR| FILMES E SERIES",BR | Telecine Premiumⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51466
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="BR | Telecine Premiumⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/f539992b62d5d1ff8c034aa244fb6095.png" group-title="|BR| FILMES E SERIES",BR | Telecine Premiumⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51733
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="BR | Telecine Touchⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/e16f9db97a360f88cf242f2db42d738c.png" group-title="|BR| FILMES E SERIES",BR | Telecine Touchⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51465
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="BR | Telecine Touchⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/e16f9db97a360f88cf242f2db42d738c.png" group-title="|BR| FILMES E SERIES",BR | Telecine Touchⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51734
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="BR | TLCⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/1f1146db861cf7485d48e9ea3ac5c762.png" group-title="|BR| VARIEDADES",BR | TLCⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51519
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="BR | TLCⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/1f1146db861cf7485d48e9ea3ac5c762.png" group-title="|BR| VARIEDADES",BR | TLCⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51735
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="BR | TNT Novelasⓧ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/170px-Logo_TNT_Novelas.png" group-title="|BR| VARIEDADES",BR | TNT Novelasⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51729
-#EXTINF:-1 tvg-id="tntseries.br" tvg-name="BR | TNT Sériesⓧ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/170px-Logo_TNT_Novelas.png" group-title="|BR| FILMES E SERIES",BR | TNT Sériesⓧ FHD
-http://xplatinmedia.com:8080/movie/@JKDpros/2jLwS6gtxZ2a/51860
-#EXTINF:-1 tvg-id="tntseries.br" tvg-name="BR | TNT Sériesⓧ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/170px-Logo_TNT_Novelas.png" group-title="|BR| FILMES E SERIES",BR | TNT Sériesⓧ HD
-http://xplatinmedia.com:8080/movie/@JKDpros/2jLwS6gtxZ2a/51736
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="BR | TNTⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/69334b60e0082d673f726fe559ffdd7b.png" group-title="|BR| FILMES E SERIES",BR | TNTⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51520
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="BR | TNTⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/69334b60e0082d673f726fe559ffdd7b.png" group-title="|BR| FILMES E SERIES",BR | TNTⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51768
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="BR | Tooncastⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/3c16800903ff348a414329205ca7b82f.png" group-title="|BR| INFANTIL",BR | Tooncastⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51776
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="BR | Tooncastⓧ SD" tvg-logo="http://xplatinmedia.com:8080/images/3c16800903ff348a414329205ca7b82f.png" group-title="|BR| INFANTIL",BR | Tooncastⓧ SD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51627
-#EXTINF:-1 tvg-id="aande.br" tvg-name="BR | Trace Brazucaⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/13af1b5f1171d060ac2898d01eda2690.png" group-title="|BR| MUSICAS",BR | Trace Brazucaⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51550
-#EXTINF:-1 tvg-id="Travelboxbrazil.br" tvg-name="BR | Travel Boxⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/2792f3fd20ec5a62067640c3e5419411.png" group-title="|BR| DOCUMENTÁRIO",BR | Travel Boxⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51526
-#EXTINF:-1 tvg-id="trutv.br" tvg-name="BR | TruTVⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/1c64657c2e9900ffe34ef0953f4b8835.png" group-title="|BR| VARIEDADES",BR | TruTVⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51897
-#EXTINF:-1 tvg-id="trutv.br" tvg-name="BR | TruTVⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/1c64657c2e9900ffe34ef0953f4b8835.png" group-title="|BR| VARIEDADES",BR | TruTVⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51896
-#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="BR | TV Brasil 2ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/8d38680f63e034996718f5992481ec01.png" group-title="|BR| VARIEDADES",BR | TV Brasil 2ⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51696
-#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="BR | TV Brasilⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/5146828de2dd781e8459093973a96d89.png" group-title="|BR| VARIEDADES",BR | TV Brasilⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51890
-#EXTINF:-1 tvg-id="tvcamara.br" tvg-name="BR | TV Camaraⓧ SD" tvg-logo="http://xplatinmedia.com:8080/images/3f2c0ea97c507b93556a345fba43ff9b.png" group-title="|BR| VARIEDADES",BR | TV Camaraⓧ SD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51893
-#EXTINF:-1 tvg-id="" tvg-name="BR | TV Cinecⓧ SD" tvg-logo="" group-title="|BR| ABERTOS",BR | TV Cinecⓧ SD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51547
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="BR | TV Culturaⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/7c6a4b59bd50c39e5184ec91b12cf413.png" group-title="|BR| VARIEDADES",BR | TV Culturaⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51507
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="BR | TV Culturaⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/7c6a4b59bd50c39e5184ec91b12cf413.png" group-title="|BR| VARIEDADES",BR | TV Culturaⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51737
-#EXTINF:-1 tvg-id="" tvg-name="BR | TV Justiçaⓧ SD" tvg-logo="http://xplatinmedia.com:8080/images/bf5d73d0678099231aef9afb90a5b750.png" group-title="|BR| VARIEDADES",BR | TV Justiçaⓧ SD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51666
-#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="BR | TV Rá-Tim-Bumⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/7a04a96fad15acbc818191efaee25578.png" group-title="|BR| INFANTIL",BR | TV Rá-Tim-Bumⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51528
-#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="BR | TV Rá-Tim-Bumⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/7a04a96fad15acbc818191efaee25578.png" group-title="|BR| INFANTIL",BR | TV Rá-Tim-Bumⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51775
-#EXTINF:-1 tvg-id="tvsenado.br" tvg-name="BR | TV Senadoⓧ SD" tvg-logo="http://xplatinmedia.com:8080/images/bc3becb7309f37b77371a8ff8193b871.png" group-title="|BR| VARIEDADES",BR | TV Senadoⓧ SD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51695
-#EXTINF:-1 tvg-id="universal.br" tvg-name="BR | Universal TVⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/f6e82a9344e449320812cf93cf5eaf17.png" group-title="|BR| FILMES E SERIES",BR | Universal TVⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51879
-#EXTINF:-1 tvg-id="universal.br" tvg-name="BR | Universal TVⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/f6e82a9344e449320812cf93cf5eaf17.png" group-title="|BR| FILMES E SERIES",BR | Universal TVⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51804
-#EXTINF:-1 tvg-id="viva.br" tvg-name="BR | Vivaⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/4e4744e50c9d5b14c2ce071d620345cb.png" group-title="|BR| VARIEDADES",BR | Vivaⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51521
-#EXTINF:-1 tvg-id="viva.br" tvg-name="BR | Vivaⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/4e4744e50c9d5b14c2ce071d620345cb.png" group-title="|BR| VARIEDADES",BR | Vivaⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51817
-#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="BR | Warner TVⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/7e24ba66a736d5b13fd88641394be740.png" group-title="|BR| FILMES E SERIES",BR | Warner TVⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51464
-#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="BR | Warner TVⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/7e24ba66a736d5b13fd88641394be740.png" group-title="|BR| FILMES E SERIES",BR | Warner TVⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51741
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="BR | Woohooⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/5e74dbe5aabda37becff7f34055f5050.png" group-title="|BR| VARIEDADES",BR | Woohooⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51517
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="BR | Woohooⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/5e74dbe5aabda37becff7f34055f5050.png" group-title="|BR| VARIEDADES",BR | Woohooⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51522
-#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="BR | Zoomooⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/0d667cef9858d5859677da5172641c00.png" group-title="|BR| INFANTIL",BR | Zoomooⓧ FHD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51525
-#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="BR | Zoomooⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/0d667cef9858d5859677da5172641c00.png" group-title="|BR| INFANTIL",BR | Zoomooⓧ HD
-http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/51774
+#EXTINF:-1 tvg-id="" tvg-name="BR: A&E" tvg-logo="https://docdog.top/logo/countries/brazil/ae.png" group-title="LAME | BRAZIL VIP",BR: A&E
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4829
+#EXTINF:-1 tvg-id="" tvg-name="BR: AMC" tvg-logo="https://docdog.top/logo/countries/brazil/amc.png" group-title="LAME | BRAZIL VIP",BR: AMC
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4830
+#EXTINF:-1 tvg-id="" tvg-name="BR: ANIMAL PLANET" tvg-logo="https://docdog.top/logo/countries/brazil/animalplanet.png" group-title="LAME | BRAZIL VIP",BR: ANIMAL PLANET
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4831
+#EXTINF:-1 tvg-id="" tvg-name="BR: AXN" tvg-logo="https://docdog.top/logo/countries/brazil/axn.png" group-title="LAME | BRAZIL VIP",BR: AXN
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4832
+#EXTINF:-1 tvg-id="" tvg-name="BR: BABY" tvg-logo="https://docdog.top/logo/countries/brazil/babytv.png" group-title="LAME | BRAZIL VIP",BR: BABY
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4833
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND NEWS" tvg-logo="https://docdog.top/logo/countries/brazil/bandnews.png" group-title="LAME | BRAZIL VIP",BR: BAND NEWS
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4834
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND SPORT" tvg-logo="https://docdog.top/logo/countries/brazil/bandsports.png" group-title="LAME | BRAZIL VIP",BR: BAND SPORT
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4835
+#EXTINF:-1 tvg-id="" tvg-name="BR: BOOMERANG" tvg-logo="https://docdog.top/logo/countries/brazil/boomerang.png" group-title="LAME | BRAZIL VIP",BR: BOOMERANG
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4836
+#EXTINF:-1 tvg-id="" tvg-name="BR: CARTOON NETWORK" tvg-logo="https://docdog.top/logo/countries/brazil/cartoonnetwork.png" group-title="LAME | BRAZIL VIP",BR: CARTOON NETWORK
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4837
+#EXTINF:-1 tvg-id="" tvg-name="BR: COMBATE" tvg-logo="https://docdog.top/logo/countries/brazil/combate.png" group-title="LAME | BRAZIL VIP",BR: COMBATE
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4838
+#EXTINF:-1 tvg-id="" tvg-name="BR: COMEDY CENTRAL" tvg-logo="https://docdog.top/logo/countries/brazil/comedycentral.png" group-title="LAME | BRAZIL VIP",BR: COMEDY CENTRAL
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4839
+#EXTINF:-1 tvg-id="" tvg-name="BR: CONMEBOL 2" tvg-logo="" group-title="LAME | BRAZIL VIP",BR: CONMEBOL 2
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4840
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/brazil/discoverychannel.png" group-title="LAME | BRAZIL VIP",BR: DISCOVERY CHANNEL
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4841
+#EXTINF:-1 tvg-id="" tvg-name="BR: HGTV" tvg-logo="" group-title="LAME | BRAZIL VIP",BR: HGTV
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4842
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY HOME & HEALTH" tvg-logo="https://docdog.top/logo/countries/brazil/discoveryhomeandhealth.png" group-title="LAME | BRAZIL VIP",BR: DISCOVERY HOME & HEALTH
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4843
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY ID" tvg-logo="https://docdog.top/logo/countries/brazil/discoveryidx.png" group-title="LAME | BRAZIL VIP",BR: DISCOVERY ID
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4844
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY KIDS" tvg-logo="https://docdog.top/logo/countries/brazil/discoverykids.png" group-title="LAME | BRAZIL VIP",BR: DISCOVERY KIDS
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4845
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY SCIENCE" tvg-logo="https://docdog.top/logo/countries/brazil/discoveryscience.png" group-title="LAME | BRAZIL VIP",BR: DISCOVERY SCIENCE
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4846
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY THEATER" tvg-logo="https://docdog.top/logo/countries/brazil/discoverytheater.png" group-title="LAME | BRAZIL VIP",BR: DISCOVERY THEATER
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4847
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY TLC" tvg-logo="https://docdog.top/logo/countries/brazil/discoverytlc.png" group-title="LAME | BRAZIL VIP",BR: DISCOVERY TLC
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4848
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY TURBO" tvg-logo="https://docdog.top/logo/countries/brazil/discoveryturbo.png" group-title="LAME | BRAZIL VIP",BR: DISCOVERY TURBO
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4849
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY WORLD" tvg-logo="https://docdog.top/logo/countries/brazil/discoveryworld.png" group-title="LAME | BRAZIL VIP",BR: DISCOVERY WORLD
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4850
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISNEY CHANNEL" tvg-logo="https://docdog.top/logo/countries/brazil/disneychannel.png" group-title="LAME | BRAZIL VIP",BR: DISNEY CHANNEL
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4851
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISNEY JR" tvg-logo="https://docdog.top/logo/countries/brazil/disneyjr.png" group-title="LAME | BRAZIL VIP",BR: DISNEY JR
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4852
+#EXTINF:-1 tvg-id="" tvg-name="BR: E!" tvg-logo="https://docdog.top/logo/countries/brazil/e.png" group-title="LAME | BRAZIL VIP",BR: E!
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4853
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN" tvg-logo="https://docdog.top/logo/countries/brazil/espn.png" group-title="LAME | BRAZIL VIP",BR: ESPN
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4854
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 2" tvg-logo="https://docdog.top/logo/countries/brazil/espn2.png" group-title="LAME | BRAZIL VIP",BR: ESPN 2
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4855
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOOD NETWORK" tvg-logo="https://docdog.top/logo/countries/brazil/foodnetwork.png" group-title="LAME | BRAZIL VIP",BR: FOOD NETWORK
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4856
+#EXTINF:-1 tvg-id="" tvg-name="BR: STAR CHANNEL" tvg-logo="" group-title="LAME | BRAZIL VIP",BR: STAR CHANNEL
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4857
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX LIFE" tvg-logo="https://docdog.top/logo/countries/brazil/foxlife.png" group-title="LAME | BRAZIL VIP",BR: FOX LIFE
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4858
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN4" tvg-logo="" group-title="LAME | BRAZIL VIP",BR: ESPN4
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4859
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS 2" tvg-logo="https://docdog.top/logo/countries/brazil/foxsports3.png" group-title="LAME | BRAZIL VIP",BR: FOX SPORTS 2
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4860
+#EXTINF:-1 tvg-id="" tvg-name="BR: FX" tvg-logo="https://docdog.top/logo/countries/brazil/fx.png" group-title="LAME | BRAZIL VIP",BR: FX
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4861
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO EPTV CAMPINAS" tvg-logo="https://docdog.top/logo/countries/brazil/globoeptvcampinas.png" group-title="LAME | BRAZIL VIP",BR: GLOBO EPTV CAMPINAS
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4862
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO INTERNACIONAL" tvg-logo="https://docdog.top/logo/countries/brazil/globointernacional.png" group-title="LAME | BRAZIL VIP",BR: GLOBO INTERNACIONAL
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4863
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO NEWS" tvg-logo="https://docdog.top/logo/countries/brazil/globonews.png" group-title="LAME | BRAZIL VIP",BR: GLOBO NEWS
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4864
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO" tvg-logo="https://docdog.top/logo/countries/brazil/globosp.png" group-title="LAME | BRAZIL VIP",BR: GLOBO
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4865
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOOB" tvg-logo="https://docdog.top/logo/countries/brazil/gloob.png" group-title="LAME | BRAZIL VIP",BR: GLOOB
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4866
+#EXTINF:-1 tvg-id="" tvg-name="BR: GNT" tvg-logo="https://docdog.top/logo/countries/brazil/gnt.png" group-title="LAME | BRAZIL VIP",BR: GNT
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4867
+#EXTINF:-1 tvg-id="" tvg-name="BR: H2" tvg-logo="https://docdog.top/logo/countries/brazil/h2.png" group-title="LAME | BRAZIL VIP",BR: H2
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4868
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO 1" tvg-logo="https://docdog.top/logo/countries/brazil/hbo1.png" group-title="LAME | BRAZIL VIP",BR: HBO 1
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4869
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO 2" tvg-logo="https://docdog.top/logo/countries/brazil/hbo2.png" group-title="LAME | BRAZIL VIP",BR: HBO 2
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4870
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO FAMILY" tvg-logo="https://docdog.top/logo/countries/brazil/hbofamily.png" group-title="LAME | BRAZIL VIP",BR: HBO FAMILY
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4871
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO PLUS" tvg-logo="https://docdog.top/logo/countries/brazil/hboplus.png" group-title="LAME | BRAZIL VIP",BR: HBO PLUS
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4872
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO SIGNATURE" tvg-logo="https://docdog.top/logo/countries/brazil/hbosignature.png" group-title="LAME | BRAZIL VIP",BR: HBO SIGNATURE
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4873
+#EXTINF:-1 tvg-id="" tvg-name="BR: HISTORY CHANNEL" tvg-logo="https://docdog.top/logo/countries/brazil/historychannel.png" group-title="LAME | BRAZIL VIP",BR: HISTORY CHANNEL
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4874
+#EXTINF:-1 tvg-id="" tvg-name="BR: LIFE TIME" tvg-logo="https://docdog.top/logo/countries/brazil/lifetime.png" group-title="LAME | BRAZIL VIP",BR: LIFE TIME
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4875
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINEMAX" tvg-logo="https://docdog.top/logo/countries/brazil/cinemax.png" group-title="LAME | BRAZIL VIP",BR: CINEMAX
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4876
+#EXTINF:-1 tvg-id="" tvg-name="BR: MEGA PIX" tvg-logo="https://docdog.top/logo/countries/brazil/megapix.png" group-title="LAME | BRAZIL VIP",BR: MEGA PIX
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4877
+#EXTINF:-1 tvg-id="" tvg-name="BR: MTV" tvg-logo="https://docdog.top/logo/countries/brazil/mtv.png" group-title="LAME | BRAZIL VIP",BR: MTV
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4878
+#EXTINF:-1 tvg-id="" tvg-name="BR: MULTI SHOW" tvg-logo="https://docdog.top/logo/countries/brazil/multishow.png" group-title="LAME | BRAZIL VIP",BR: MULTI SHOW
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4879
+#EXTINF:-1 tvg-id="" tvg-name="BR: NAT GEO" tvg-logo="https://docdog.top/logo/countries/brazil/natgeo.png" group-title="LAME | BRAZIL VIP",BR: NAT GEO
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4880
+#EXTINF:-1 tvg-id="" tvg-name="BR: NAT GEO KIDS" tvg-logo="https://docdog.top/logo/countries/brazil/natgeokids.png" group-title="LAME | BRAZIL VIP",BR: NAT GEO KIDS
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4881
+#EXTINF:-1 tvg-id="" tvg-name="BR: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/brazil/natgeowild.png" group-title="LAME | BRAZIL VIP",BR: NAT GEO WILD
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4882
+#EXTINF:-1 tvg-id="" tvg-name="BR: NICKELODEON" tvg-logo="https://docdog.top/logo/countries/brazil/nickelodeon.png" group-title="LAME | BRAZIL VIP",BR: NICKELODEON
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4883
+#EXTINF:-1 tvg-id="" tvg-name="BR: NOVO TEMPO" tvg-logo="https://docdog.top/logo/countries/brazil/novotempo.png" group-title="LAME | BRAZIL VIP",BR: NOVO TEMPO
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4884
+#EXTINF:-1 tvg-id="" tvg-name="BR: OFF" tvg-logo="https://docdog.top/logo/countries/brazil/off.png" group-title="LAME | BRAZIL VIP",BR: OFF
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4885
+#EXTINF:-1 tvg-id="" tvg-name="BR: PARAMOUNT CHANNEL" tvg-logo="https://docdog.top/logo/countries/brazil/paramountchannel.png" group-title="LAME | BRAZIL VIP",BR: PARAMOUNT CHANNEL
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4886
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 2" tvg-logo="https://docdog.top/logo/countries/brazil/premiere2.png" group-title="LAME | BRAZIL VIP",BR: PREMIERE 2
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4887
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 3" tvg-logo="https://docdog.top/logo/countries/brazil/premiere3.png" group-title="LAME | BRAZIL VIP",BR: PREMIERE 3
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4888
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 4" tvg-logo="https://docdog.top/logo/countries/brazil/premiere4.png" group-title="LAME | BRAZIL VIP",BR: PREMIERE 4
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4889
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 5" tvg-logo="https://docdog.top/logo/countries/brazil/premiere5.png" group-title="LAME | BRAZIL VIP",BR: PREMIERE 5
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4890
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 6" tvg-logo="https://docdog.top/logo/countries/brazil/premiere6.png" group-title="LAME | BRAZIL VIP",BR: PREMIERE 6
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4891
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE CLUBES" tvg-logo="https://docdog.top/logo/countries/brazil/premiereclubes.png" group-title="LAME | BRAZIL VIP",BR: PREMIERE CLUBES
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4892
+#EXTINF:-1 tvg-id="" tvg-name="BR: RA TIM BUM" tvg-logo="https://docdog.top/logo/countries/brazil/ratimbum.png" group-title="LAME | BRAZIL VIP",BR: RA TIM BUM
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4893
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD" tvg-logo="https://docdog.top/logo/countries/brazil/record.png" group-title="LAME | BRAZIL VIP",BR: RECORD
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4894
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD NEWS" tvg-logo="https://docdog.top/logo/countries/brazil/recordnews.png" group-title="LAME | BRAZIL VIP",BR: RECORD NEWS
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4895
+#EXTINF:-1 tvg-id="" tvg-name="BR: REDE TV" tvg-logo="https://docdog.top/logo/countries/brazil/redetv.png" group-title="LAME | BRAZIL VIP",BR: REDE TV
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4896
+#EXTINF:-1 tvg-id="" tvg-name="BR: RPC TV CURITIBA" tvg-logo="" group-title="LAME | BRAZIL VIP",BR: RPC TV CURITIBA
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4897
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT" tvg-logo="https://docdog.top/logo/countries/brazil/sbt.png" group-title="LAME | BRAZIL VIP",BR: SBT
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4898
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT NORDESTE" tvg-logo="https://docdog.top/logo/countries/brazil//SBTNORDESTE.jpg" group-title="LAME | BRAZIL VIP",BR: SBT NORDESTE
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4899
+#EXTINF:-1 tvg-id="" tvg-name="BR: SONY" tvg-logo="https://docdog.top/logo/countries/brazil/sony.png" group-title="LAME | BRAZIL VIP",BR: SONY
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4900
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPACE" tvg-logo="https://docdog.top/logo/countries/brazil/space.png" group-title="LAME | BRAZIL VIP",BR: SPACE
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4901
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 1" tvg-logo="https://docdog.top/logo/countries/brazil/sportv1.png" group-title="LAME | BRAZIL VIP",BR: SPORTV 1
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4902
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 2" tvg-logo="https://docdog.top/logo/countries/brazil/sportv2.png" group-title="LAME | BRAZIL VIP",BR: SPORTV 2
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4903
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 3" tvg-logo="https://docdog.top/logo/countries/brazil/sportv3.png" group-title="LAME | BRAZIL VIP",BR: SPORTV 3
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4904
+#EXTINF:-1 tvg-id="" tvg-name="BR: STUDIO UNIVERSAL" tvg-logo="https://docdog.top/logo/countries/brazil/studiouniversal.png" group-title="LAME | BRAZIL VIP",BR: STUDIO UNIVERSAL
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4905
+#EXTINF:-1 tvg-id="" tvg-name="BR: SYFY" tvg-logo="https://docdog.top/logo/countries/brazil/syfy.png" group-title="LAME | BRAZIL VIP",BR: SYFY
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4906
+#EXTINF:-1 tvg-id="" tvg-name="BR: TBS" tvg-logo="https://docdog.top/logo/countries/brazil/tbs.png" group-title="LAME | BRAZIL VIP",BR: TBS
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4907
+#EXTINF:-1 tvg-id="" tvg-name="BR: TCM" tvg-logo="https://docdog.top/logo/countries/brazil/tcm.png" group-title="LAME | BRAZIL VIP",BR: TCM
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4908
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELE CINE ACTION" tvg-logo="https://docdog.top/logo/countries/brazil/telecineaction.png" group-title="LAME | BRAZIL VIP",BR: TELE CINE ACTION
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4909
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELE CINE CULT" tvg-logo="https://docdog.top/logo/countries/brazil/telecinecult.png" group-title="LAME | BRAZIL VIP",BR: TELE CINE CULT
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4910
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELE CINE FUN" tvg-logo="https://docdog.top/logo/countries/brazil/telecinefun.png" group-title="LAME | BRAZIL VIP",BR: TELE CINE FUN
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4911
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELE CINE PIPOCA" tvg-logo="https://docdog.top/logo/countries/brazil/telecinepipoca.png" group-title="LAME | BRAZIL VIP",BR: TELE CINE PIPOCA
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4912
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELE CINE PREMIUM" tvg-logo="https://docdog.top/logo/countries/brazil/telecinepremium.png" group-title="LAME | BRAZIL VIP",BR: TELE CINE PREMIUM
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4913
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELE CINE TOUCH" tvg-logo="https://docdog.top/logo/countries/brazil/telecinetouch.png" group-title="LAME | BRAZIL VIP",BR: TELE CINE TOUCH
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4914
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT" tvg-logo="https://docdog.top/logo/countries/brazil/tnt.png" group-title="LAME | BRAZIL VIP",BR: TNT
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4915
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT SERIES" tvg-logo="https://docdog.top/logo/countries/brazil/tntseries.png" group-title="LAME | BRAZIL VIP",BR: TNT SERIES
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4916
+#EXTINF:-1 tvg-id="" tvg-name="BR: TOONCAST" tvg-logo="https://docdog.top/logo/countries/brazil/tooncast.png" group-title="LAME | BRAZIL VIP",BR: TOONCAST
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4917
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV BRASIL" tvg-logo="https://docdog.top/logo/countries/brazil/canalbrasil.png" group-title="LAME | BRAZIL VIP",BR: TV BRASIL
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4918
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV DIARIO" tvg-logo="https://docdog.top/logo/countries/brazil//TVDIARIO.jpg" group-title="LAME | BRAZIL VIP",BR: TV DIARIO
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4919
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV EVANGELIZAR" tvg-logo="" group-title="LAME | BRAZIL VIP",BR: TV EVANGELIZAR
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4920
+#EXTINF:-1 tvg-id="" tvg-name="BR: UNIVERSAL CHANNEL" tvg-logo="https://docdog.top/logo/countries/brazil/universalchannel.png" group-title="LAME | BRAZIL VIP",BR: UNIVERSAL CHANNEL
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4921
+#EXTINF:-1 tvg-id="" tvg-name="BR: VIVA" tvg-logo="https://docdog.top/logo/countries/brazil/viva.png" group-title="LAME | BRAZIL VIP",BR: VIVA
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4922
+#EXTINF:-1 tvg-id="" tvg-name="BR: WARNER CHANNEL" tvg-logo="https://docdog.top/logo/countries/brazil/warnerchannel.png" group-title="LAME | BRAZIL VIP",BR: WARNER CHANNEL
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4923
+#EXTINF:-1 tvg-id="" tvg-name="BR: WOOHOO" tvg-logo="https://docdog.top/logo/countries/brazil/woohoo.png" group-title="LAME | BRAZIL VIP",BR: WOOHOO
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4924
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record RJ" tvg-logo="" group-title="LAME | BRAZIL VIP",BR: Record RJ
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/58729
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record RS" tvg-logo="" group-title="LAME | BRAZIL VIP",BR: Record RS
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/58730
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record SP" tvg-logo="" group-title="LAME | BRAZIL VIP",BR: Record SP
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/58731
